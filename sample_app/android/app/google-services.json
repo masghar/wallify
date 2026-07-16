@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093583242801",
+    "project_id": "wallify-asghar19",
+    "storage_bucket": "wallify-asghar19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093583242801:android:3621f3cb9d42d29115f710",
+        "android_client_info": {
+          "package_name": "com.asghar.wallify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093583242801-pah0okpm94aftf4v3tvjc054g7f8dun1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asghar.wallify",
+            "certificate_hash": "0cfeb908f010481b0d13480f6fd9e637437c6b5e"
+          }
+        },
+        {
+          "client_id": "1093583242801-q8peul5fbb8djopneojedtl0v1a823fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asghar.wallify",
+            "certificate_hash": "106ad784b8ebc5e213a32d2215fbe0e0c51a42a9"
+          }
+        },
+        {
+          "client_id": "1093583242801-c9312l82f32lnkqqircqa1fvocpfkhcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQgJzNMn48VX2qxUdB9gvFSlfPmFeurOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093583242801-c9312l82f32lnkqqircqa1fvocpfkhcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

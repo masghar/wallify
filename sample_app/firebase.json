@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"wallify-asghar19","appId":"1:1093583242801:android:3621f3cb9d42d29115f710","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"wallify-asghar19","configurations":{"android":"1:1093583242801:android:3621f3cb9d42d29115f710"}}}}},"firestore":{"rules":"firestore.rules"}}
